@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    return 100;
+    printf("abcdefg!\r\n");
+    printf("hijklmno!\r\n");
+    return 1;
 }
